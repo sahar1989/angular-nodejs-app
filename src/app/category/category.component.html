@@ -1,10 +1,8 @@
-<p>category works!</p>
-<h2>categories</h2>
 <div>
-  <div *ngFor="let category of categories">
+ <!--  <div *ngFor="let category of categories">
     {{ category.name }} : {{category.value}}
-  </div>
-  <div *ngIf="chart">
+  </div> -->
+  <div *ngIf="chart" id="chart-container">
     <canvas id="canvas">{{ chart }}</canvas>
   </div>
 </div>

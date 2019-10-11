@@ -1,0 +1,14 @@
+ul{
+    list-style: none;
+}
+a {
+  background-color: royalblue;
+  color: white;
+  padding: 7px;
+  text-decoration: none;
+  border-radius: 2px;
+}
+
+a:hover {
+  background-color: #555;
+}

@@ -5,7 +5,7 @@ import { CategoryComponent } from './category/category.component';
 
 const routes: Routes = [
   {
-    path: 'all',
+    path: 'get',
     component: CategoryComponent
   }
 ];
