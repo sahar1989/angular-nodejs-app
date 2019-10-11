@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 api folder: back-end has written in node js port number 3200
              get data from foursquare api 
-			 GET https://api.foursquare.com/v2/venues/categories
+			 GET `https://api.foursquare.com/v2/venues/categories`
 			 and save in database 
 			 
 database: mongo db
