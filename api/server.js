@@ -9,8 +9,8 @@ const express = require('express'),
 
 //API information
 const request = require('request'),
-    clientId = 'FX0VBPHRLCBQPTGRXWGRERPOLL0PYUJCYLQHYV50O15XZF1V',
-    clientSecret = '03OXTBF2BU4H5HU1VUQRSTQRTM2QRLUX4ITL2I5SBFSMBPXA',
+    clientId = '',//your clinet id
+    clientSecret = '',//your secret id 
     v = '20150525',
     url = "https://api.foursquare.com/v2/venues/categories";
 
